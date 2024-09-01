@@ -77,17 +77,17 @@ export function GoogleGeminiEffectDemo() {
           <p className="text-lg md:text-2xl mb-4">
             Apple Vision Pro represents a revolutionary leap forward in how we
             interact with technology. With an immersive interface and
-            groundbreaking design, it’s not just a new product—it’s a new way of
+            groundbreaking design, it&apos;s not just a new product—it&apos;s a new way of
             seeing the world.
           </p>
           <p className="text-lg md:text-2xl mb-4">
             With powerful sensors, advanced optics, and a custom-designed
             silicon chip, Apple Vision Pro brings the world around you to life
-            in ways never before possible. Whether you're at home, in the
+            in ways never before possible. Whether you&apos;re at home, in the
             office, or on the go, this is the future of computing.
           </p>
           <p className="text-lg md:text-2xl mb-4">
-            As you scroll through this page, you’ll uncover the many features
+            As you scroll through this page, you&apos;ll uncover the many features
             and innovations that make Apple Vision Pro a true game-changer. Dive
             in and see for yourself how it can transform your digital
             experience.
