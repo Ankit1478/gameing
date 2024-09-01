@@ -17,14 +17,15 @@ export function AuroraBackgroundDemo() {
         className="relative flex flex-col gap-4 items-center justify-center px-4"
       >
         <div className="text-3xl md:text-7xl font-bold dark:text-white text-center">
-          Background lights are cool you know.
-        </div>
-        <div className="font-extralight text-base md:text-4xl dark:text-neutral-200 py-4">
-          And this, is chemical burn.
-        </div>
-        <button className="bg-white dark:bg-black rounded-full w-fit text-black dark:text-white px-4 py-2">
-          Debug now
-        </button>
+  Enter the Realm of the Gods
+</div>
+<div className="font-extralight text-base md:text-4xl dark:text-neutral-200 py-4">
+  Embrace the power of Kratos and embark on an epic journey.
+</div>
+<button className="bg-white dark:bg-black rounded-full w-fit text-black dark:text-white px-4 py-2">
+  Begin Your Quest
+</button>
+
       </motion.div>
     </AuroraBackground>
   );

@@ -30,9 +30,9 @@ export function GoogleGeminiEffectDemo() {
   return (
     <div>
        <div className="headline-wrapper text-center relative z-20 text-black pb-8 ">
-        <h2 className="text-xl md:text-2xl uppercase tracking-wider mb-4">Photos and Videos</h2>
+        <h2 className="text-xl md:text-2xl uppercase tracking-wider mb-4">Journey of a Warrior</h2>
         <p className="text-4xl md:text-6xl font-bold leading-tight">
-          Be in the moment.<br />All over again.
+        Relive the Legend.<br />Become the God of War.
         </p>
       </div>
     <div className="relative w-full overflow-hidden" ref={ref}>
@@ -58,10 +58,10 @@ export function GoogleGeminiEffectDemo() {
           >
             <div>
               <h1 className="text-4xl md:text-6xl font-bold">
-                Experience Apple Vision Pro
+              Embrace Your Destiny
               </h1>
               <p className="mt-4 text-lg md:text-2xl">
-                Scroll down to explore the features.
+              Scroll down to uncover the saga.
               </p>
             </div>
           </motion.div>
@@ -72,28 +72,29 @@ export function GoogleGeminiEffectDemo() {
       <div className="relative w-full bg-white text-black py-20">
         <div className="max-w-4xl mx-auto px-4">
           <h2 className="text-3xl md:text-5xl font-bold mb-8">
-            A New Era of Technology
+          The Rise of Kratos
           </h2>
           <p className="text-lg md:text-2xl mb-4">
-            Apple Vision Pro represents a revolutionary leap forward in how we
-            interact with technology. With an immersive interface and
-            groundbreaking design, it&apos;s not just a new product—it&apos;s a new way of
-            seeing the world.
+          Step into the shoes of Kratos, the legendary Spartan warrior, as
+              he battles gods and monsters across the realms. God of War is not
+              just a game; it&#39;s a journey of vengeance, redemption, and the
+              unbreakable bond between father and son.
           </p>
           <p className="text-lg md:text-2xl mb-4">
-            With powerful sensors, advanced optics, and a custom-designed
-            silicon chip, Apple Vision Pro brings the world around you to life
-            in ways never before possible. Whether you&apos;re at home, in the
-            office, or on the go, this is the future of computing.
+          With breathtaking visuals, immersive storytelling, and intense
+              combat, God of War sets a new standard for action-adventure games.
+              Feel the weight of the Leviathan Axe in your hands, hear the roar
+              of battle, and witness the fury of the gods as you embark on this
+              epic saga.
           </p>
           <p className="text-lg md:text-2xl mb-4">
-            As you scroll through this page, you&apos;ll uncover the many features
-            and innovations that make Apple Vision Pro a true game-changer. Dive
-            in and see for yourself how it can transform your digital
-            experience.
+          As you scroll through this page, you will experience the legend of
+              Kratos like never before. Explore the world of Norse mythology,
+              face the wrath of ancient gods, and forge your destiny.
           </p>
           <p className="text-lg md:text-2xl">
-            Welcome to the new reality.
+          face the wrath of ancient gods, and forge your destiny.
+
           </p>
         </div>
       </div>

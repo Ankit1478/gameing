@@ -5,7 +5,7 @@ import { ImagesSlider } from "./ui/images-slider";
 
 export function ImagesSliderDemo() {
   const images = [
-    "https://wallpapercave.com/wp/wp2680084.jpg",
+    "https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m250/upload_img_49079506_09_01_2024_10_43_59_199157_7723116370141211842.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=106&ccb=9-4&oh=00_AYB8PVQn6bz1IpGcVxQjZ-7WR-JprIL3Mtn4VSgmP_Wg_A&oe=66D689AA&_nc_sid=5b3566",
     "https://wallpapercave.com/wp/wp3282821.jpg",
     "https://wallpapercave.com/wp/wp2514623.jpg",
   ];

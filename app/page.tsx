@@ -1,7 +1,7 @@
 import { AppleCardsCarouselDemo } from "@/components/appleCard";
 import { Card } from "@/components/Card";
 import { CoverDemo } from "@/components/ContainerCover";
-import { AppleStyleFooter } from "@/components/Fotter";
+import { GodOfWarFooter } from "@/components/Fotter";
 import { GoogleGeminiEffectDemo } from "@/components/GeminiEffect";
 import { AuroraBackgroundDemo } from "@/components/LandingPage";
 import { MacbookScrollDemo } from "@/components/MacbookEffects";
@@ -21,6 +21,6 @@ export default function Home() {
     <CoverDemo></CoverDemo>
     <ImagesSliderDemo></ImagesSliderDemo>
     
-    <AppleStyleFooter></AppleStyleFooter>
+    <GodOfWarFooter></GodOfWarFooter>
   </div>
 }

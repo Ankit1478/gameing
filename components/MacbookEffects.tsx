@@ -9,8 +9,8 @@ export function MacbookScrollDemo() {
       <MacbookScroll
         title={
           <span className="text-white"> 
-            This Macbook is built with Tailwindcss. <br /> No kidding.
-          </span>
+            The Battlefields of Midgard Awaits.<br /> Wield the Power of the Gods.
+            </span>
         }
         badge={
           <Link href="https://peerlist.io/manuarora">

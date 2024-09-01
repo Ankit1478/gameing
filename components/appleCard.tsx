@@ -11,7 +11,7 @@ export function AppleCardsCarouselDemo() {
   return (
     <div className="w-full h-full py-20">
       <h2 className="max-w-7xl pl-4 mx-auto text-xl md:text-5xl font-bold text-neutral-800 dark:text-neutral-200 font-sans">
-        Get to know your iSad.
+      Unleash the Power of the Gods
       </h2>
       <Carousel items={cards} />
     </div>
@@ -29,12 +29,9 @@ const DummyContent = () => {
           >
             <p className="text-neutral-600 text-base md:text-2xl font-sans max-w-3xl mx-auto">
               <span className="font-bold text-neutral-700">
-                The first rule of Apple club is that you boast about Apple club.
+              The journey of a thousand miles begins with a single step.
               </span>{" "}
-              Keep a journal, quickly jot down a grocery list, and take amazing
-              class notes. Want to convert those notes to text? No problem.
-              Langotiya jeetu ka mara hua yaar is ready to capture every
-              thought.
+              Embrace your destiny and face the trials that await in the Nine Realms. Equip yourself with the Leviathan Axe and the Blades of Chaos, and carve your path through the shadows of Midgard.
             </p>
             <Image
               src="https://assets.aceternity.com/macbook.png"
@@ -52,40 +49,39 @@ const DummyContent = () => {
 
 const data = [
   {
-    category: "Artificial Intelligence",
-    title: "You can do more with AI.",
-    src: "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?q=80&w=3556&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    category: "Combat",
+    title: "Master the Art of War",
+    src: "https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m250/upload_img_49079506_09_01_2024_10_43_59_199157_7723116370141211842.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=106&ccb=9-4&oh=00_AYB8PVQn6bz1IpGcVxQjZ-7WR-JprIL3Mtn4VSgmP_Wg_A&oe=66D689AA&_nc_sid=5b3566",
     content: <DummyContent />,
   },
   {
-    category: "Productivity",
-    title: "Enhance your productivity.",
-    src: "https://images.unsplash.com/photo-1531554694128-c4c6665f59c2?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    category: "Exploration",
+    title: "Explore the Nine Realms",
+    src: "https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m340/genai_m4_lla_cln_v3:upload_img_25724027_09_01_2024_10_56_40_408534_1704866634223810398.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=100&ccb=9-4&oh=00_AYDfPGE7_DLYXcwREP6phW8ciq96JYZDphpASnoE-5a__g&oe=66D69205&_nc_sid=5b3566",
     content: <DummyContent />,
   },
   {
-    category: "Product",
-    title: "Launching the new Apple Vision Pro.",
-    src: "https://images.unsplash.com/photo-1713869791518-a770879e60dc?q=80&w=2333&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    content: <DummyContent />,
-  },
-
-  {
-    category: "Product",
-    title: "Maps for your iPhone 15 Pro Max.",
-    src: "https://images.unsplash.com/photo-1599202860130-f600f4948364?q=80&w=2515&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    category: "Mythology",
+    title: "Discover the Secrets of Norse Mythology",
+    src: "https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m340/genai_m4_ldc_ftw_v3:upload_img_21861314_09_01_2024_10_52_34_738196_5514182103986179023.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=100&ccb=9-4&oh=00_AYALvncSiOelILv8SLHA6i78SB9ArCHHVBiEQXvyi-HP6A&oe=66D67201&_nc_sid=5b3566",
     content: <DummyContent />,
   },
   {
-    category: "iOS",
-    title: "Photography just got better.",
-    src: "https://images.unsplash.com/photo-1602081957921-9137a5d6eaee?q=80&w=2793&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    category: "Boss Battles",
+    title: "Challenge the Valkyries",
+    src: "https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m250/upload_img_49079506_09_01_2024_10_52_31_477958_2491972618190150133.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=105&ccb=9-4&oh=00_AYATBgrfevq0VC_Ht9XvsDjaa4GsBj5UGAUenTqSaw3wmA&oe=66D683BB&_nc_sid=5b3566",
     content: <DummyContent />,
   },
   {
-    category: "Hiring",
-    title: "Hiring for a Staff Software Engineer",
-    src: "https://images.unsplash.com/photo-1511984804822-e16ba72f5848?q=80&w=2048&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    category: "Lore",
+    title: "Unearth the Rich Lore of Midgard",
+    src: "https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m248/upload_img_63952717_09_01_2024_10_55_17_542849_1282385933475695961.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=108&ccb=9-4&oh=00_AYCKu2Sh8acsD2eXMMWnSbePLxZnheA_SAbiBZULXUoyXQ&oe=66D69518&_nc_sid=5b3566",
+    content: <DummyContent />,
+  },
+  {
+    category: "Crafting",
+    title: "Forge Your Own Destiny",
+    src: "https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m340/genai_m4_rva_eag_v3:upload_img_50794437_09_01_2024_10_56_40_334907_8937175885725288175.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=107&ccb=9-4&oh=00_AYC6-ykpqy5TtMJZemGwvWd3kDLtrzOzbHr1-BLqTmGYrA&oe=66D67EC4&_nc_sid=5b3566",
     content: <DummyContent />,
   },
 ];
