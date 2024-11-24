@@ -2,8 +2,9 @@
 import { motion } from "framer-motion";
 import React from "react";
 import { AuroraBackground } from "./ui/aurora-background";
-
+import { useRouter } from 'next/navigation'
 export function AuroraBackgroundDemo() {
+  const router = useRouter()
   return (
     <AuroraBackground>
       <motion.div
@@ -22,7 +23,7 @@ export function AuroraBackgroundDemo() {
 <div className="font-extralight text-base md:text-4xl dark:text-neutral-200 py-4">
   Embrace the power of Kratos and embark on an epic journey.
 </div>
-<button className="bg-white dark:bg-black rounded-full w-fit text-black dark:text-white px-4 py-2">
+<button  onClick={() => window.location.href = 'https://character-ai-fronted.vercel.app/'}  className="bg-white dark:bg-black rounded-full w-fit text-black dark:text-white px-4 py-2">
   Begin Your Quest
 </button>
 

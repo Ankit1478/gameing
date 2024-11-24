@@ -30,7 +30,7 @@ export function Card() {
       </WobbleCard>
       <WobbleCard
         containerClassName="col-span-1 min-h-[300px]"
-        backgroundImage="https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m248/upload_img_63952717_09_01_2024_10_55_17_542849_1282385933475695961.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=108&ccb=9-4&oh=00_AYCKu2Sh8acsD2eXMMWnSbePLxZnheA_SAbiBZULXUoyXQ&oe=66D69518&_nc_sid=5b3566"
+        backgroundImage="https://images.pexels.com/photos/10547072/pexels-photo-10547072.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       >
         <h2 className="max-w-80 text-left text-balance text-base md:text-xl lg:text-3xl font-semibold tracking-[-0.015em] text-white">
           Embrace Your Destiny, Spartan.

@@ -34,7 +34,7 @@ const DummyContent = () => {
               Embrace your destiny and face the trials that await in the Nine Realms. Equip yourself with the Leviathan Axe and the Blades of Chaos, and carve your path through the shadows of Midgard.
             </p>
             <Image
-              src="https://assets.aceternity.com/macbook.png"
+              src="https://img.freepik.com/free-photo/fun-3d-illustration-backpacker-with-vr-helmet_183364-81218.jpg?t=st=1732405005~exp=1732408605~hmac=981419700880a6a147516a735f03ceb27c3532e822f145b91eceb1e0542374e8&w=740"
               alt="Macbook mockup from Aceternity UI"
               height="500"
               width="500"
@@ -51,37 +51,37 @@ const data = [
   {
     category: "Combat",
     title: "Master the Art of War",
-    src: "https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m250/upload_img_49079506_09_01_2024_10_43_59_199157_7723116370141211842.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=106&ccb=9-4&oh=00_AYB8PVQn6bz1IpGcVxQjZ-7WR-JprIL3Mtn4VSgmP_Wg_A&oe=66D689AA&_nc_sid=5b3566",
+    src: "https://wallpapers.com/images/high/battlefield-1-4k-gaming-lv1bce7p143co6yg.webp",
     content: <DummyContent />,
   },
   {
     category: "Exploration",
     title: "Explore the Nine Realms",
-    src: "https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m340/genai_m4_lla_cln_v3:upload_img_25724027_09_01_2024_10_56_40_408534_1704866634223810398.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=100&ccb=9-4&oh=00_AYDfPGE7_DLYXcwREP6phW8ciq96JYZDphpASnoE-5a__g&oe=66D69205&_nc_sid=5b3566",
+    src: "https://wallpapers.com/images/high/pubg-frying-pan-4k-o4jenkeqrlcut59v.webp",
     content: <DummyContent />,
   },
   {
     category: "Mythology",
     title: "Discover the Secrets of Norse Mythology",
-    src: "https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m340/genai_m4_ldc_ftw_v3:upload_img_21861314_09_01_2024_10_52_34_738196_5514182103986179023.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=100&ccb=9-4&oh=00_AYALvncSiOelILv8SLHA6i78SB9ArCHHVBiEQXvyi-HP6A&oe=66D67201&_nc_sid=5b3566",
+    src: "https://wallpapers.com/images/high/pubg-purple-lips-4k-zhjh1aykyr94yns1.webp",
     content: <DummyContent />,
   },
   {
     category: "Boss Battles",
     title: "Challenge the Valkyries",
-    src: "https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m250/upload_img_49079506_09_01_2024_10_52_31_477958_2491972618190150133.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=105&ccb=9-4&oh=00_AYATBgrfevq0VC_Ht9XvsDjaa4GsBj5UGAUenTqSaw3wmA&oe=66D683BB&_nc_sid=5b3566",
+    src: "https://wallpapers.com/images/high/pubg-blood-raven-x-suit-4k-ihtyvrsec8fp1rd9.webp",
     content: <DummyContent />,
   },
   {
     category: "Lore",
     title: "Unearth the Rich Lore of Midgard",
-    src: "https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m248/upload_img_63952717_09_01_2024_10_55_17_542849_1282385933475695961.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=108&ccb=9-4&oh=00_AYCKu2Sh8acsD2eXMMWnSbePLxZnheA_SAbiBZULXUoyXQ&oe=66D69518&_nc_sid=5b3566",
+    src: "https://images.pexels.com/photos/163489/war-desert-guns-gunshow-163489.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     content: <DummyContent />,
   },
   {
     category: "Crafting",
     title: "Forge Your Own Destiny",
-    src: "https://scontent.fdel27-4.fna.fbcdn.net/o1/v/t0/f1/m340/genai_m4_rva_eag_v3:upload_img_50794437_09_01_2024_10_56_40_334907_8937175885725288175.jpeg?_nc_ht=scontent.fdel27-4.fna.fbcdn.net&_nc_cat=107&ccb=9-4&oh=00_AYC6-ykpqy5TtMJZemGwvWd3kDLtrzOzbHr1-BLqTmGYrA&oe=66D67EC4&_nc_sid=5b3566",
+    src: "https://images.pexels.com/photos/10547072/pexels-photo-10547072.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     content: <DummyContent />,
   },
 ];
